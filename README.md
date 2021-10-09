@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @botXsandy
+- 👋 Hi, I’m @sandy
 - 👀 I’m interested in mobile apps
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on mobile apps
