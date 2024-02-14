@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandy
-- 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on mobile apps
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Power BI
 - 📫 How to reach me mail me : sikarwar2sandesh@gmail.com
 
 <!---
